@@ -1,0 +1,4 @@
+CODE,name,descr,Criticality
+O,Open,,0
+P,In Progress,,2
+C,Close,,3

@@ -1,0 +1,19 @@
+{
+"requires":{
+
+    "[dev]":{
+     "db" : {
+        "kind": "sqlite",
+        "credentials": {
+            "url": "Sales.sqlite"
+
+        }
+     },
+     "auth":"dummy"
+
+    }
+
+
+}
+
+}

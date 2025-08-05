@@ -1,0 +1,11 @@
+ID,EMAIL,FIRSTNAME,LASTNAME,COUNTRY,CREATION,DELIVERYDATE,orderstatus_CODE,imageurl
+67c5b363-d4da-45f2-bfae-d6be9cc6b365,andreahaynes@gmail.com,Jennifer,Hudson,Vanuatu,2025-02-28,2025-03-12,P,https://example.com/images/jennifer.jpg
+ee7112a9-f820-410d-b53b-7d4fda0a76a4,paulhendrix@hotmail.com,Patricia,Little,Kenya,2025-03-14,2025-03-25,P,https://example.com/images/patricia.jpg
+65858796-467e-46da-9da6-1f14ad010074,urogers@hotmail.com,Steven,Smith,Montserrat,2025-01-15,2025-01-25,C,https://example.com/images/steven.jpg
+abf4920a-2f6a-46ab-8d9f-0d0ddec3bb81,kortiz@gmail.com,Edward,Riley,Iran,2024-06-29,2024-07-20,P,https://example.com/images/edward.jpg
+f08918e8-a223-4b2c-aaf4-d015be062257,montoyaann@hotmail.com,Thomas,Castillo,Palestinian Territory,2024-03-16,2024-04-04,C,https://example.com/images/thomas.jpg
+293592c6-d42c-45d2-baa1-02dce4fd3ce1,masonsteven@cole.com,Natalie,Lawrence,Slovenia,2023-08-21,2023-08-31,C,https://example.com/images/natalie.jpg
+21baead7-2a60-457a-b280-b7cba51cbb3e,kingsara@gmail.com,Angela,Evans,Cote d'Ivoire,2023-12-31,2024-01-26,O,https://example.com/images/angela.jpg
+231b2e6a-e21d-4f9b-b55f-3275ad3f72f7,arussell@young.com,Robert,Campbell,Venezuela,2025-04-30,2025-05-20,P,https://example.com/images/robert.jpg
+fcac6a81-e607-4091-a2fc-615c1ebdf026,dawn43@ortiz.info,Carla,Estes,Somalia,2025-04-29,2025-05-11,C,https://example.com/images/carla.jpg
+96aebd25-3285-4a86-a58c-83c59490e6f4,taylorisabella@hotmail.com,Charles,Foster,Latvia,2023-12-13,2023-12-26,P,https://example.com/images/charles.jpg

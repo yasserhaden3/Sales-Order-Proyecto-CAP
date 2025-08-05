@@ -1,0 +1,23 @@
+{
+  "name": "SalesOrder2014",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "https://github.com/yasserhaden3/Sales-Order-Proyecto-CAP.git",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@cap-js/postgres": "^2.0.4",
+    "@sap/cds": "^9.2.0",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@cap-js/cds-types": "^0.13.0",
+    "@cap-js/sqlite": "^2"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  }
+}
